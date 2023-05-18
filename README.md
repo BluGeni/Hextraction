@@ -10,13 +10,13 @@ Mods included:
 
 Please open a pull request or send me any files or changes you want included.
 
-######Discord: PapaPinkertinz#7134
+###### Discord: PapaPinkertinz#7134
 
 
 # Quick Start:
 
 ### Basic Board
-1 x 5-15 Plate ([If you need smaller pieces](https://thangs.com/designer/Link%20The%20Cat/3d-model/Hextraction_Board_%5Bfor%20small%20printers%5D-860793))
+1 x 5-15 Plate ([If you need smaller pieces](https://thangs.com/designer/Link%20The%20Cat/3d-model/Hextraction_Board_%5Bfor%20small%20printers%5D-860793))\
 1 x 5-7 Plate
 5 x Basic Clips
 2 x Basic On-Ramp
@@ -28,7 +28,7 @@ Please open a pull request or send me any files or changes you want included.
 
 
 ### Fancy Board:
-1 x 5-15 Plate ([If you need smaller pieces](https://thangs.com/designer/Link%20The%20Cat/3d-model/Hextraction_Board_%5Bfor%20small%20printers%5D-860793))
+1 x 5-15 Plate ([If you need smaller pieces](https://thangs.com/designer/Link%20The%20Cat/3d-model/Hextraction_Board_%5Bfor%20small%20printers%5D-860793))\
 1 x 5-7 Plate
 17 x Gutter Segment
 3 x Gutter Endcap
@@ -41,15 +41,15 @@ Please open a pull request or send me any files or changes you want included.
 
 ### 14x Basic Tiles:
 
-2x Asterisk Tile
-2x Peace Tile
-2x DIC Tile
-4x DC Tile
+2x Asterisk Tile\
+2x Peace Tile\
+2x DIC Tile\
+4x DC Tile\
 4x X Tile
 
 ### 8x Trap Tiles:
 
-4x Double Trap Tiles
+4x Double Trap Tiles\
 4x Triple Trap Tiles
 
 ### 6x Flip-Flop Tiles
@@ -57,21 +57,21 @@ These require M3 screws and washers. If these parts are unavailable, substitute 
 
 ### 8x Secret Tiles:
 
-2x Secret Flip Flops
-2x Secret DC
-2x Secret X
-2x Secret Lil DC
+2x Secret Flip Flops\
+2x Secret DC\
+2x Secret X\
+2x Secret Lil DC\
 8x Secret Lids
 
 ### 2x Teleporter Tiles:
 
-2x In Tiles
-2x Out Tiles
-1x In Tile Card
+2x In Tiles\
+2x Out Tiles\
+1x In Tile Card\
 1x Out Tile Card
 
 ### 2x Clone Tiles:
 
-2x Clone Tiles
+2x Clone Tiles\
 1x Clone Tile Card
 
