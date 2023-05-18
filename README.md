@@ -13,11 +13,10 @@ Please open a pull request or send me any files or changes you want included.
 ######Discord: PapaPinkertinz#7134
 
 
-
 # Quick Start:
 
 ### Basic Board
-1 x 5-15 Plate
+1 x 5-15 Plate ([If you need smaller pieces](https://thangs.com/designer/Link%20The%20Cat/3d-model/Hextraction_Board_%5Bfor%20small%20printers%5D-860793))
 1 x 5-7 Plate
 5 x Basic Clips
 2 x Basic On-Ramp
@@ -29,7 +28,7 @@ Please open a pull request or send me any files or changes you want included.
 
 
 ### Fancy Board:
-1 x 5-15 Plate
+1 x 5-15 Plate ([If you need smaller pieces](https://thangs.com/designer/Link%20The%20Cat/3d-model/Hextraction_Board_%5Bfor%20small%20printers%5D-860793))
 1 x 5-7 Plate
 17 x Gutter Segment
 3 x Gutter Endcap
