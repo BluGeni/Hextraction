@@ -5,7 +5,7 @@ All tiles to print are in the STL folder with READMEs and links to the original 
 Mods included:
 
 - a full size board
-- coming soon.. 1 piece legs
+- 1 piece legs - Basic
 
 
 Please open a pull request or send me any files or changes you want included.
