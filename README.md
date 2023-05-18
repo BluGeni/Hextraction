@@ -17,26 +17,26 @@ Please open a pull request or send me any files or changes you want included.
 
 ### Basic Board
 1 x 5-15 Plate ([If you need smaller pieces](https://thangs.com/designer/Link%20The%20Cat/3d-model/Hextraction_Board_%5Bfor%20small%20printers%5D-860793))\
-1 x 5-7 Plate
-5 x Basic Clips
-2 x Basic On-Ramp
-2 x Universal End Zone
-2 x Basic Back Leg Mount
-2 x Basic Leg Segment 50mm
-2 x Basic Foot Mount Integrated
+1 x 5-7 Plate\
+5 x Basic Clips\
+2 x Basic On-Ramp\
+2 x Universal End Zone\
+2 x Basic Back Leg Mount\
+2 x Basic Leg Segment 50mm\
+2 x Basic Foot Mount Integrated\
 2 x Universal Foot Integrated
 
 
 ### Fancy Board:
 1 x 5-15 Plate ([If you need smaller pieces](https://thangs.com/designer/Link%20The%20Cat/3d-model/Hextraction_Board_%5Bfor%20small%20printers%5D-860793))\
-1 x 5-7 Plate
-17 x Gutter Segment
-3 x Gutter Endcap
-2 x Gutter On-Ramp
-2 x Gutter Leg Mount
-2 x Gutter Leg Start
-2 x Gutter Foot Mount Integrated
-2 x Universal Foot Integrated
+1 x 5-7 Plate\
+17 x Gutter Segment\
+3 x Gutter Endcap\
+2 x Gutter On-Ramp\
+2 x Gutter Leg Mount\
+2 x Gutter Leg Start\
+2 x Gutter Foot Mount Integrated\
+2 x Universal Foot Integrated\
 2 x Gutter Leg Segment 50mm
 
 ### 14x Basic Tiles:
